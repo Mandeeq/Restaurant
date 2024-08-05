@@ -1,0 +1,111 @@
+.head{
+background-image: url(restuarant/cof.jpeg); 
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center;
+position:center;
+margin: 0;
+width: 100%;   
+height: 600px;
+margin-top: -50px;
+}
+.button{
+    background-color: #8B4513;
+    margin-top: -100px;
+}
+
+
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding-top: 80px;
+}
+a{
+    display: inline-block;
+    margin: 100px;
+    margin-top: 20px;
+   
+  
+}
+nav{
+  text-align:center;
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
+h2,p{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    font-size: 50px;
+}
+button{
+  
+    margin-left: 900px;
+    margin-top: 50px;
+    width: 5%;
+    height: 3em;
+    border-radius: 20px;
+    background: transparent;
+    border-color: green;
+    font-size: 20px;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 200px;
+    margin-left: 200px;
+    color: burlywood;
+}
+.h3 p{
+    margin-left: 900px;
+    margin-top: 50px;
+    margin-left: 900px;
+    color: grey;
+   
+}
+.h3 img{
+    width: 800px;
+    margin-top: -200px;
+    margin-left: 50px;
+}
+.h3{
+    margin-top: 100px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.cappcino img{
+    border-radius: 900px;
+    width:20%;
+    margin-left: 400px;
+}
+.cappcino input{
+    width: 10%;
+    background-color: #8B4513;
+    margin-left: 100px;
+    margin-top: -500px;
+}
+.cappcino{
+    margin-top: 100px;
+}
+
+  

@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#8B4513;
+}
+h1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    color: burlywood;
+}
+.price, span{
+    word-spacing: 2;
+ 
+}
+
+
+legend{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 20px;
+    color:burlywood;
+}
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px ;
+    color: burlywood;
+}
+input[type="submit"]{
+    
+    margin-left: 900px;
+    margin-top: 20px;
+    color: burlywood;
+    width: 4%;
+    height: 10%;
+    border-radius: 20px;
+}
+.location{
+    margin-left: -2%;
+}
